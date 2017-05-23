@@ -1,4 +1,4 @@
-# Project Title
+# Web Hit Counter
 
 This is a simple hit-counter developed as part of the Advance Web Tech Class Assignment. 
 
